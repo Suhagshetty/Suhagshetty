@@ -1,31 +1,26 @@
-Hi there! I'm Suhag S Shetty 👋
-🚀 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
+<h1 align="center">Hi 👋, I'm Suhag Shetty</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
-About Me
-I’m a Computer Science Engineering student in my 7th semester, passionate about technology and the ever-evolving world of AI. With hands-on experience in Full Stack Development, I've built several innovative projects spanning web applications, AI-driven systems, and more!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20views&color=0e75b6&style=flat" alt="suhagshetty" /> </p>
 
-🌟 Lead of a tech-based community called Oscode
-🔒 Built a women safety app using Django called Safe Walk
-💡 Working on an AI interview platform named AICruiter
-📅 Currently learning TypeScript and mastering React and JavaScript
-My Projects
-🚴 Bike Rental System: Developed an admin login system with MySQL database management.
-🛡️ Virtual Assistant: Won 3rd prize at DevHacks 1.0, utilizing Python and JavaScript for automation and assistance.
-🎨 QR Code Generator: Created a dynamic code generation platform.
-🤖 AI Resume Maker: Building a tool to help job seekers craft their perfect resumes using AI.
-💼 Job Portal Website: Helping users find their dream job by connecting companies and candidates seamlessly.
-What I'm Currently Working On
-🌐 Developing a website full of transitions and animations.
-🎮 Creating interactive anime-themed hero sections with custom hover effects for my personal projects.
-💡 Crafting a platform for YouTube and content creators to generate new and engaging ideas.
-Skills & Tools
-Languages: Python, JavaScript, TypeScript, HTML, CSS, SQL
-Frameworks: React, Django
-Database: MySQL, PostgreSQL
-Tools: Git, Overleaf, Udemy for continuous learning
-Connect with Me
-📫 LinkedIn: https://www.linkedin.com/in/suhagshetty07/
-🏆 Participated in the Cyber Crimes Conclave 2024 and showcased a virtual assistant solution.
-📖 Sharing my coding journey on Instagram where I explore JavaScript, React, and TypeScript.
-I'm always open to collaborating on exciting projects, contributing to the tech community, and learning from fellow developers. Let's build something amazing together!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhagshetty" alt="suhagshetty" /></a> </p>
+
+- 🔭 I’m currently working on **Watson's.Ai**
+
+- 🌱 I’m currently learning **Next.js , Go-Lang**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me at **suhagshetty07@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suhagshett80253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhagshett80253" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suhagshetty07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhagshetty07/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&locale=en" alt="suhagshetty" /></p>
 
