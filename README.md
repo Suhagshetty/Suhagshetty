@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Suhag Shetty</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Suhagshetty"><img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
