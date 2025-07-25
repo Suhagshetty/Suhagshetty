@@ -9,7 +9,7 @@
 
 ## 🚀 Projects I'm Working On
 
-- ⚡ **[Sanity.ai](https://github.com/Suhagshetty/Sanity.ai)** – An AI-powered full-stack code generation + sandbox platform (Lovable competitor)
+- ⚡ **Vanilla)** – An AI-powered full-stack code generation + sandbox platform (Lovable competitor)
 - 🧠 **Watson's.AI** – Smart assistant for developers, designed to automate repetitive dev workflows
 - 🌍 **OSCode Community Website** – Tech community website for open source enthusiasts
 
