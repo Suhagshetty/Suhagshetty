@@ -32,7 +32,7 @@ I love solving complex problems, automating workflows, and blending **AI + Cloud
 
 ## 💼 Experience
 
-### 🟦 Nextiva — *Software Engineer Intern*  
+### 🟦 Nextiva — *Software Engineer *  
 *May 2025 – Present | Bengaluru, India*  
 - Optimized Node.js/Express APIs, improving response times by **20%** for **15,000+ enterprise users**.  
 - Built full-stack features using **React 18, Next.js 13, MongoDB**, achieving **92% test coverage**.  
