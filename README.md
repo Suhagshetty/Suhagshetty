@@ -1,4 +1,4 @@
-<h1 align="center">🖤 Suhag Shetty</h1>
+<h1 align="center"> Suhag Shetty</h1>
 <h3 align="center">Full Stack Engineer | AI & Cloud Developer | Open Source Contributor</h3>
 
 <p align="center">
@@ -81,10 +81,7 @@ I love combining **Next.js**, **Docker**, and **Cloud** to craft automation-firs
 
 ---
 
-## 🧮 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhagshetty&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=9f9f9f&title_color=ffffff" />
-</p>
+
 
 ---
 
