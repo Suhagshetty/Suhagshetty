@@ -1,123 +1,124 @@
-<h1 align="center">🚀 Suhag Shetty</h1>
+<h1 align="center">🖤 Suhag Shetty</h1>
 <h3 align="center">Full Stack Engineer | AI & Cloud Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/Suhagshetty">
-    <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=grey&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://suhagshetty.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:suhagshetty07@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20Email-202124?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/suhagshetty07/">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/suhagshetty07">
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
-💡 Passionate **Software Engineer** with hands-on experience in **building scalable, production-grade web apps** and **AI-driven SaaS platforms**.  
-I love solving complex problems, automating workflows, and blending **AI + Cloud + Full Stack** to build tools that make developers’ lives easier.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A9A9A9&center=true&vCenter=true&width=650&lines=Building+AI+%2B+Cloud+%2B+Full+Stack+Ecosystems;Automating+Workflows+%26+Optimizing+Systems;Turning+Ideas+Into+Production+Code;Lifelong+Learner+%7C+Open+Source+Enthusiast" />
+</p>
 
-- 💻 Skilled in **TypeScript, JavaScript, Go, Python, and Java**
-- 🚀 Experienced with **Next.js, React, Node.js, and tRPC**
-- ☁️ DevOps-focused with **AWS, Docker, GitHub Actions, CI/CD**
-- 🧠 Exploring **AI integration, system design, and distributed systems**
-- 🏆 **National Hackathon Winner** | Lead of **OSCode SAIT (200+ Members)**
+---
+
+## 🧠 About Me
+💡 **Software Engineer** with 1+ year of experience building **scalable, AI-driven web applications** serving 40k+ users.  
+I love combining **Next.js**, **Docker**, and **Cloud** to craft automation-first solutions with clean architecture.
+
+- 🛠 Languages: **Java, JavaScript, TypeScript, SQL**
+- ⚙️ Frameworks: **React, Next.js, Node.js, Express.js**
+- 🧩 Databases: **MongoDB, PostgreSQL, MySQL**
+- ☁️ DevOps: **Docker, AWS, GitHub Actions, CI/CD**
+- 🧠 Interests: **System Design, AI Integrations, Distributed Systems**
+- 🏆 **National Hackathon Winner** | Lead @ **OSCode SAIT (200+ Members)**
 
 ---
 
 ## 💼 Experience
 
-### 🟦 Nextiva — *Software Engineer *  
+### 🟦 Nextiva — *Software Engineer Intern*  
 *May 2025 – Present | Bengaluru, India*  
-- Optimized Node.js/Express APIs, improving response times by **20%** for **15,000+ enterprise users**.  
-- Built full-stack features using **React 18, Next.js 13, MongoDB**, achieving **92% test coverage**.  
-- Maintained CI/CD pipelines and testing workflows with **GitHub Actions**.
+- Developed Node.js APIs serving **1,500+ enterprise customers** with **Redis caching** and optimized queries.  
+- Built full-stack features using **React 18**, **Next.js 14**, **MongoDB** achieving **72% test coverage**.  
+- Automated **CI/CD** with GitHub Actions ensuring **zero-downtime deployments**.
 
 ### 🟨 Capgemini — *Frontend Developer Intern*  
 *June 2024 – Nov 2024 | Bengaluru, India*  
-- Built **responsive, high-performance UI** with React, Tailwind, and ShadCN UI.  
-- Integrated RESTful APIs and improved page load speed by **15%**.  
-- Collaborated in an agile team of 8, delivering production-grade front-end components.
+- Designed responsive UI with **React**, **Tailwind**, **ShadCN UI** for enterprise dashboards.  
+- Integrated **15+ APIs** and implemented **code splitting & lazy loading**, improving load time by **15%**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Hermes.AI](#) — *AI Career Coach Platform*  
-Next.js • Node.js • REST APIs  
-> Built an AI assistant that provides **ATS score checks**, **skill-gap insights**, and **career growth recommendations**.
-
-### ⚡ [Sanity.AI](#) — *Low-Code SaaS Builder*  
-Next.js • tRPC • Docker • Inngest  
-> Developed a **microservice-based SaaS platform builder** with automated sandbox deployments and **CI/CD automation**.
-
-### 🔗 [GitSmash](#) — *Real-time Code Collaboration*  
-WebRTC • Next.js • GitHub API  
-> Created a **real-time collaborative IDE** for developers with live code sync, version control, and peer-to-peer debugging.
-
-### 🌍 [OSCode Community Platform](#)  
-Next.js • Firebase • Tailwind  
-> Led development of a hub connecting 200+ developers for hackathons and open-source collaboration.
+| Project | Stack | Description |
+|----------|--------|-------------|
+| 🧠 [**Hermes.AI**](#) | Next.js • Node.js • Firebase • NeonDB | AI career coach with ATS resume analysis, mock interviews & insights |
+| ⚙️ [**Sanity.AI**](#) | Next.js • TypeScript • Docker • Inngest | Low-code SaaS builder with automated sandbox & CI/CD pipelines |
+| 🔗 [**GitSmash**](#) | React • Node.js • WebRTC • GitHub API | Real-time collaborative IDE with peer coding & AI-powered review |
+| 🌍 [**OSCode Platform**](#) | Next.js • Firebase • Tailwind | Platform connecting 200+ devs through hackathons & open-source work |
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Tech Stack
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+### 💬 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-3C3C3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Frameworks & Libraries**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-%23E10098.svg?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+### 🧠 Backend & DevOps  
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📈 GitHub Insights
-
+## 🧮 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&theme=radical&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhagshetty&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhagshetty&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=9f9f9f&title_color=ffffff" />
+</p>
+
+---
+
+## ⚙️ GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=9f9f9f&title_color=ffffff" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhagshetty&theme=dark&hide_border=true&background=0D1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhagshetty&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhagshetty&theme=react-dark&bg_color=0D1117&color=888&line=9f9f9f&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Leadership & Awards
 - 🥇 **National Hackathon Winner** – DevHacks & Code for Bharat  
-- 👨‍💻 **Lead, OSCode SAIT** – Built a 200+ member tech community organizing hackathons & dev workshops  
-- 🌟 **Student of the Year (2021–25)** – For excellence in academics & leadership  
-- 🚀 **Campus Ambassador, DevTown** – Conducted hands-on workshops on Web Dev & Cloud  
+- 👨‍💻 **Lead, OSCode SAIT** – 200+ member tech community  
+- 🌟 **Student of the Year (2021–25)** – Academic & Leadership Excellence  
+- 🚀 **Campus Ambassador, DevTown** – Led workshops on Web Dev & Cloud  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/suhagshetty07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhagshetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/suhagshett80253"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://suhagshetty.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p> 
+  <a href="https://linkedin.com/in/suhagshetty07"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:suhagshetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/suhagshett80253"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
+  <a href="https://suhagshetty.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&textColor=ffffff" />
+</p>
