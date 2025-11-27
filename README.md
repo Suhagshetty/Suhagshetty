@@ -1,121 +1,104 @@
-<h1 align="center"> Suhag Shetty</h1>
-<h3 align="center">Full Stack Engineer | AI & Cloud Developer | Open Source Contributor</h3>
+<!-- Donut Chart — Dark Theme (Paste this into your README.md) -->
+<div align="center">
+  <h3 style="color:#ffffff;margin-bottom:6px">📊 Most Used Languages</h3>
+  <p style="color:#9f9f9f;margin-top:0;margin-bottom:12px">Based on public repositories — TypeScript, JavaScript, Java, SQL</p>
 
-<p align="center">
-  <a href="https://github.com/Suhagshetty">
-    <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=grey&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://suhagshetty.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:suhagshetty07@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-202124?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/suhagshetty07">
-    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
+  <!-- SVG Donut -->
+  <svg
+    role="img"
+    aria-label="Donut chart showing most used languages: TypeScript 70 percent, JavaScript 20 percent, Java 7 percent, SQL 3 percent"
+    viewBox="0 0 420 260"
+    width="420"
+    height="260"
+    style="background:#0D1117; border-radius:12px; padding:12px;"
+  >
+    <defs>
+      <style>
+        .label { font: 600 12px/1.2 'Segoe UI', Roboto, system-ui, -apple-system; fill:#bdbdbd; }
+        .title { font: 700 14px/1.2 'Segoe UI', Roboto, system-ui, -apple-system; fill:#ffffff; }
+        .legend { font: 600 12px/1 'Segoe UI', Roboto, system-ui, -apple-system; fill:#dcdcdc; }
+        .percent { font: 700 12px/1 'Segoe UI', Roboto, system-ui, -apple-system; fill:#ffffff; }
+        .small { font: 500 11px/1 'Segoe UI', Roboto, system-ui, -apple-system; fill:#9f9f9f; }
+      </style>
+      <!-- Colors -->
+      <linearGradient id="gTs" x1="0" x2="1">
+        <stop offset="0" stop-color="#60a5fa" />
+        <stop offset="1" stop-color="#3178C6" />
+      </linearGradient>
+      <linearGradient id="gJs" x1="0" x2="1">
+        <stop offset="0" stop-color="#f7df1e" />
+        <stop offset="1" stop-color="#e6c220" />
+      </linearGradient>
+      <linearGradient id="gJava" x1="0" x2="1">
+        <stop offset="0" stop-color="#f2994a" />
+        <stop offset="1" stop-color="#ED8B00" />
+      </linearGradient>
+      <linearGradient id="gSql" x1="0" x2="1">
+        <stop offset="0" stop-color="#7ee787" />
+        <stop offset="1" stop-color="#4DB33D" />
+      </linearGradient>
+    </defs>
 
----
+    <!-- Title -->
+    <text x="220" y="28" class="title" text-anchor="middle">Most Used Languages — Donut</text>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A9A9A9&center=true&vCenter=true&width=650&lines=Building+AI+%2B+Cloud+%2B+Full+Stack+Ecosystems;Automating+Workflows+%26+Optimizing+Systems;Turning+Ideas+Into+Production+Code;Lifelong+Learner+%7C+Open+Source+Enthusiast" />
-</p>
+    <!-- Donut center -->
+    <g transform="translate(100,130) rotate(-90)">
+      <!-- Circle base -->
+      <circle r="72" cx="0" cy="0" fill="none" stroke="#0D1117" stroke-width="36" />
 
----
+      <!-- Slices: percentages (stroke-dasharray: <part> <rest>) -->
+      <!-- Calculation notes: circumference = 2πr ≈ 2 * 3.1416 * 72 ≈ 452.39 -->
+      <!-- Values used: TS 70 -> 316.67 ; JS 20 -> 90.48 ; Java 7 -> 31.67 ; SQL 3 -> 13.57 -->
 
-## 🧠 About Me
-💡 **Software Engineer** with 1+ year of experience building **scalable, AI-driven web applications** serving 40k+ users.  
-I love combining **Next.js**, **Docker**, and **Cloud** to craft automation-first solutions with clean architecture.
+      <!-- TypeScript 70% -->
+      <circle r="72" cx="0" cy="0" fill="none" stroke="url(#gTs)" stroke-width="36"
+              stroke-dasharray="316.67 135.72" stroke-dashoffset="0" stroke-linecap="round" />
 
-- 🛠 Languages: **Java, JavaScript, TypeScript, SQL**
-- ⚙️ Frameworks: **React, Next.js, Node.js, Express.js**
-- 🧩 Databases: **MongoDB, PostgreSQL, MySQL**
-- ☁️ DevOps: **Docker, AWS, GitHub Actions, CI/CD**
-- 🧠 Interests: **System Design, AI Integrations, Distributed Systems**
-- 🏆 **National Hackathon Winner** | Lead @ **OSCode SAIT (200+ Members)**
+      <!-- JavaScript 20% (offset by 316.67) -->
+      <circle r="72" cx="0" cy="0" fill="none" stroke="url(#gJs)" stroke-width="36"
+              stroke-dasharray="90.48 361.91" stroke-dashoffset="-316.67" stroke-linecap="round" />
 
----
+      <!-- Java 7% (offset by 316.67+90.48 = 407.15) -->
+      <circle r="72" cx="0" cy="0" fill="none" stroke="url(#gJava)" stroke-width="36"
+              stroke-dasharray="31.67 420.72" stroke-dashoffset="-407.15" stroke-linecap="round" />
 
-## 💼 Experience
+      <!-- SQL 3% (offset by 407.15+31.67 = 438.82) -->
+      <circle r="72" cx="0" cy="0" fill="none" stroke="url(#gSql)" stroke-width="36"
+              stroke-dasharray="13.57 438.82" stroke-dashoffset="-438.82" stroke-linecap="round" />
+    </g>
 
-### 🟦 Nextiva — *Software Engineer Intern*  
-*May 2025 – Present | Bengaluru, India*  
-- Developed Node.js APIs serving **1,500+ enterprise customers** with **Redis caching** and optimized queries.  
-- Built full-stack features using **React 18**, **Next.js 14**, **MongoDB** achieving **72% test coverage**.  
-- Automated **CI/CD** with GitHub Actions ensuring **zero-downtime deployments**.
+    <!-- Inner circle (hole) -->
+    <circle cx="100" cy="130" r="44" fill="#0D1117" />
 
-### 🟨 Capgemini — *Frontend Developer Intern*  
-*June 2024 – Nov 2024 | Bengaluru, India*  
-- Designed responsive UI with **React**, **Tailwind**, **ShadCN UI** for enterprise dashboards.  
-- Integrated **15+ APIs** and implemented **code splitting & lazy loading**, improving load time by **15%**.
+    <!-- Center text: main language -->
+    <text x="100" y="125" class="label" text-anchor="middle">Top Language</text>
+    <text x="100" y="145" class="percent" text-anchor="middle">TypeScript — 70%</text>
 
----
+    <!-- Legend -->
+    <g transform="translate(210,60)">
+      <!-- TypeScript -->
+      <rect x="0" y="0" width="16" height="16" rx="3" fill="url(#gTs)"></rect>
+      <text x="22" y="13" class="legend">TypeScript</text>
+      <text x="120" y="13" class="small">70%</text>
 
-## 🚀 Featured Projects
+      <!-- JavaScript -->
+      <rect x="0" y="28" width="16" height="16" rx="3" fill="url(#gJs)"></rect>
+      <text x="22" y="41" class="legend">JavaScript</text>
+      <text x="120" y="41" class="small">20%</text>
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| 🧠 [**Hermes.AI**](#) | Next.js • Node.js • Firebase • NeonDB | AI career coach with ATS resume analysis, mock interviews & insights |
-| ⚙️ [**Sanity.AI**](#) | Next.js • TypeScript • Docker • Inngest | Low-code SaaS builder with automated sandbox & CI/CD pipelines |
-| 🔗 [**GitSmash**](#) | React • Node.js • WebRTC • GitHub API | Real-time collaborative IDE with peer coding & AI-powered review |
-| 🌍 [**OSCode Platform**](#) | Next.js • Firebase • Tailwind | Platform connecting 200+ devs through hackathons & open-source work |
+      <!-- Java -->
+      <rect x="0" y="56" width="16" height="16" rx="3" fill="url(#gJava)"></rect>
+      <text x="22" y="69" class="legend">Java</text>
+      <text x="120" y="69" class="small">7%</text>
 
----
+      <!-- SQL -->
+      <rect x="0" y="84" width="16" height="16" rx="3" fill="url(#gSql)"></rect>
+      <text x="22" y="97" class="legend">SQL</text>
+      <text x="120" y="97" class="small">3%</text>
+    </g>
 
-## 🧩 Tech Stack
-
-### 💬 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-3C3C3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🧠 Backend & DevOps  
-![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=8CC84B)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-
-
----
-
-## ⚙️ GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=9f9f9f&title_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhagshetty&theme=dark&hide_border=true&background=0D1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhagshetty&theme=react-dark&bg_color=0D1117&color=888&line=9f9f9f&point=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🏆 Leadership & Awards
-- 🥇 **National Hackathon Winner** – DevHacks & Code for Bharat  
-- 👨‍💻 **Lead, OSCode SAIT** – 200+ member tech community  
-- 🌟 **Student of the Year (2021–25)** – Academic & Leadership Excellence  
-- 🚀 **Campus Ambassador, DevTown** – Led workshops on Web Dev & Cloud  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/suhagshetty07"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:suhagshetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/suhagshett80253"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
-  <a href="https://suhagshetty.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&textColor=ffffff" />
-</p>
+    <!-- Footer note -->
+    <text x="210" y="245" class="small" text-anchor="middle">Data: Public GitHub repositories — approximate distribution</text>
+  </svg>
+</div>
