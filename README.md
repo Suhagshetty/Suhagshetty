@@ -1,1 +1,112 @@
-<h1 align="center"> Suhag Shetty</h1> <h3 align="center">Full Stack Engineer | AI & Cloud Developer | Open Source Contributor</h3> <p align="center"> <a href="https://github.com/Suhagshetty"> <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=grey&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://suhagshetty.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:suhagshetty07@gmail.com"> <img src="https://img.shields.io/badge/📧%20Email-202124?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/suhagshetty07"> <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> </p> --- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A9A9A9&center=true&vCenter=true&width=650&lines=Building+AI+%2B+Cloud+%2B+Full+Stack+Ecosystems;Automating+Workflows+%26+Optimizing+Systems;Turning+Ideas+Into+Production+Code;Lifelong+Learner+%7C+Open+Source+Enthusiast" /> </p> --- ## 🧠 About Me 💡 **Software Engineer** with 1+ year of experience building **scalable, AI-driven web applications** serving 40k+ users. I love combining **Next.js**, **Docker**, and **Cloud** to craft automation-first solutions with clean architecture. - 🛠 Languages: **Java, JavaScript, TypeScript, SQL** - ⚙️ Frameworks: **React, Next.js, Node.js, Express.js** - 🧩 Databases: **MongoDB, PostgreSQL, MySQL** - ☁️ DevOps: **Docker, AWS, GitHub Actions, CI/CD** - 🧠 Interests: **System Design, AI Integrations, Distributed Systems** - 🏆 **National Hackathon Winner** | Lead @ **OSCode SAIT (200+ Members)** --- ## 💼 Experience ### 🟦 Nextiva — *Software Engineer Intern* *May 2025 – Present | Bengaluru, India* - Developed Node.js APIs serving **1,500+ enterprise customers** with **Redis caching** and optimized queries. - Built full-stack features using **React 18**, **Next.js 14**, **MongoDB** achieving **72% test coverage**. - Automated **CI/CD** with GitHub Actions ensuring **zero-downtime deployments**. ### 🟨 Capgemini — *Frontend Developer Intern* *June 2024 – Nov 2024 | Bengaluru, India* - Designed responsive UI with **React**, **Tailwind**, **ShadCN UI** for enterprise dashboards. - Integrated **15+ APIs** and implemented **code splitting & lazy loading**, improving load time by **15%**. --- ## 🚀 Featured Projects | Project | Stack | Description | |----------|--------|-------------| | 🧠 [**Hermes.AI**](#) | Next.js • Node.js • Firebase • NeonDB | AI career coach with ATS resume analysis, mock interviews & insights | | ⚙️ [**Sanity.AI**](#) | Next.js • TypeScript • Docker • Inngest | Low-code SaaS builder with automated sandbox & CI/CD pipelines | | 🔗 [**GitSmash**](#) | React • Node.js • WebRTC • GitHub API | Real-time collaborative IDE with peer coding & AI-powered review | | 🌍 [**OSCode Platform**](#) | Next.js • Firebase • Tailwind | Platform connecting 200+ devs through hackathons & open-source work | --- ## 🧩 Tech Stack ### 💬 Languages & Frameworks ![Java](https://img.shields.io/badge/Java-3C3C3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ### 🧠 Backend & DevOps ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=8CC84B) ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![MySQL](https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql&logoColor=white) --- --- ## ⚙️ GitHub Analytics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=9f9f9f&title_color=ffffff" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhagshetty&theme=dark&hide_border=true&background=0D1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" width="48%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhagshetty&theme=react-dark&bg_color=0D1117&color=888&line=9f9f9f&point=ffffff&hide_border=true" /> </p> --- ## 🏆 Leadership & Awards - 🥇 **National Hackathon Winner** – DevHacks & Code for Bharat - 👨‍💻 **Lead, OSCode SAIT** – 200+ member tech community - 🌟 **Student of the Year (2021–25)** – Academic & Leadership Excellence - 🚀 **Campus Ambassador, DevTown** – Led workshops on Web Dev & Cloud --- ## 🌐 Connect With Me <p align="center"> <a href="https://linkedin.com/in/suhagshetty07"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:suhagshetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/suhagshett80253"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a> <a href="https://suhagshetty.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p> --- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&textColor=ffffff" /> </p>
+<h1 align="center">🚀 Suhag Shetty</h1>
+<h3 align="center">Full Stack Engineer • AI & Cloud Developer • Open Source Contributor</h3>
+
+<p align="center">
+  <a href="https://github.com/Suhagshetty">
+    <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=grey&style=for-the-badge" />
+  </a>
+  <a href="https://suhagshetty.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:suhagshetty07@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-202124?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suhagshetty07">
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1200&color=A9A9A9&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+AI+%26+Cloud+Developer;I+Build+Scalable+Products+%26+Automation+Systems;Open+Source+Enthusiast+%7C+Tech+Community+Leader" />
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a **Software Engineer** passionate about building scalable digital products integrating **AI, Cloud, and Full-Stack systems**.
+
+- 🧩 **1+ year** building production systems for 40k+ users  
+- 🛠️ **Full-Stack Developer** → Next.js, React, Node.js  
+- ☁️ **Cloud & DevOps** → Docker, AWS, CI/CD  
+- ⚙️ **Backend Engineering** → Redis, NeonDB, PostgreSQL  
+- 🧠 Love: **System Design, Distributed Systems, AI Integrations**  
+- 👨‍💻 **Lead @ OSCode SAIT** (200+ members)  
+- 🥇 **National Hackathon Winner**
+
+---
+
+💼 Experience
+🟦 Nextiva — Software Engineer Intern
+
+May 2025 – Present | Bengaluru, India
+
+Designed Node.js APIs serving 1,500+ enterprise customers
+
+Added Redis caching + optimized DB queries
+
+Built full-stack features using Next.js 14, React 18, MongoDB
+
+Achieved 72% test coverage
+
+Implemented end-to-end CI/CD pipelines (GitHub Actions)
+
+🟨 Capgemini — Frontend Developer Intern
+
+Jun 2024 – Nov 2024 | Bengaluru, India
+
+Built enterprise dashboards using React + Tailwind + ShadCN
+
+Integrated 15+ APIs
+
+Improved app load performance by 15% via code splitting & lazy loading
+
+| Project                | Stack                                   | Description                                                 |
+| ---------------------- | --------------------------------------- | ----------------------------------------------------------- |
+| 🧠 **Hermes.AI**       | Next.js • Node.js • Firebase • NeonDB   | AI career coach with ATS checks, mock interviews & insights |
+| ⚙️ **Sanity.AI**       | Next.js • TypeScript • Docker • Inngest | Low-code SaaS builder with automated sandbox pipelines      |
+| 🔗 **GitSmash**        | React • Node.js • WebRTC                | Real-time collaborative IDE with AI-powered code review     |
+| 🌍 **OSCode Platform** | Next.js • Firebase • Tailwind           | Dev community platform powering 200+ developers             |
+
+🧩 Tech Stack
+💻 Languages & Frameworks
+
+
+
+
+
+
+
+
+
+
+🛠 Backend & DevOps
+
+
+
+
+
+
+
+
+
+
+
+
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suhagshetty&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhagshetty&theme=dark&hide_border=true&background=0D1117" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhagshetty&theme=react-dark&bg_color=0D1117&hide_border=true" /> </p>
+🏆 Leadership & Awards
+
+🥇 National Hackathon Winner — DevHacks & Code for Bharat
+
+👑 Lead @ OSCode SAIT — 200+ member tech community
+
+🌟 Student of the Year (2021–25)
+
+🚀 Campus Ambassador @ DevTown
+
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/suhagshetty07"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:suhagshetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/suhagshett80253"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a> <a href="https://suhagshetty.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" /> </p> ```
