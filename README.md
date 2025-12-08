@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Suhag Shetty</h1>
+<h1 align="center">Suhag S Shetty</h1>
 <h3 align="center">Full Stack Engineer • AI & Cloud Developer • Open Source Contributor</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Software Engineer with **1+ year of production experience** building scalable digital products integrating **AI, Cloud, and Full-Stack systems**.
 
@@ -37,7 +37,7 @@ Software Engineer with **1+ year of production experience** building scalable di
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Nextiva — Software Engineer Intern**  
 **May 2025 – Present | Bengaluru, India**
@@ -57,7 +57,7 @@ Software Engineer with **1+ year of production experience** building scalable di
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Stack | Description |
 |--------|-------|-------------|
@@ -68,7 +68,7 @@ Software Engineer with **1+ year of production experience** building scalable di
 
 ---
 
-## 🛠️ Comprehensive Tech Stack
+##  Comprehensive Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,go,python,html,css,react,nextjs,nodejs,express,graphql,aws,docker,git,tailwind,bootstrap,materialui,postgres,mysql,mongodb,redis,prisma,githubactions,sqlite,kubernetes,drawio" />
@@ -80,7 +80,7 @@ Software Engineer with **1+ year of production experience** building scalable di
 
 ---
 
-## ✨ Leadership & Recognition
+##  Leadership & Recognition
 
 - **National Hackathon Champion** — DevHacks & Code for Bharat  
 - **Technical Community Leader, OSCode SAIT** — Led 200+ developers  
