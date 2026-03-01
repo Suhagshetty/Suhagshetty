@@ -7,7 +7,7 @@
   <a href="https://github.com/Suhagshetty">
     <img src="https://komarev.com/ghpvc/?username=suhagshetty&label=Profile%20Views&color=5B5B5B&style=for-the-badge" />
   </a>
-  <a href="https://suhagshetty.vercel.app">
+  <a href="https://suhagxyz.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:suhagshetty07@gmail.com">
