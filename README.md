@@ -39,7 +39,7 @@ Software Engineer with **1+ year of production experience** building scalable di
 
 ##  Experience
 
-### **Nextiva — Software Engineer Intern**  
+### **Nextiva — Software Engineer**  
 **May 2025 – Present | Bengaluru, India**
 
 - Built **Node.js/Express APIs** serving 1,500+ enterprise customers; improved response time by **20%** with Redis caching  
